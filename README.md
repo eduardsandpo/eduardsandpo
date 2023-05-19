@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @eduardsandpo
+- 👀 I’m interested in OpenBSD, systems development, web dev & ai
+- 🌱 I’m currently learning OpenBSD & web dev
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me eduardsand.po@gmail.com
+
+<!---
+eduardsandpo/eduardsandpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
