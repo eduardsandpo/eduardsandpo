@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduardsandpo
 - 👀 I’m interested in OpenBSD (https://www.openbsd.org), systems development, web dev & ai
 - 🌱 I’m currently learning OpenBSD & web dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting stuff 
 - 📫 How to reach me eduardsand.po@gmail.com
 
 <!---
