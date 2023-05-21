@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Sandvoal (@eduardsandpo)
+- 👋 Hi, I’m Eduardo Sandoval (@eduardsandpo)
 - 👀 I’m interested in OpenBSD (https://www.openbsd.org), systems development, web dev & ai
 - 🌱 I’m currently learning OpenBSD & web dev
 - 💞️ I’m looking to collaborate on interesting stuff 
